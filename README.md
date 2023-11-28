@@ -30,40 +30,6 @@ Student ID: 11325735.
 
 
 
-SCREENSHOTS
-Home or the index page
- 
-
-About page
- 
-Courses page
- 
-
-Facilities page
- 
-
-
-Faculty page
- 
-
-Research page
- 
-
-
-Resource page
- 
-
-News page
- 
-
-
-Events page
- 
-
-Contact page
- 
-
-
 
 As this project has evolved, I have discovered some really insightful things and have learned the following:
 1. Technical abilities in version control, HTML, CSS, GitHub.
